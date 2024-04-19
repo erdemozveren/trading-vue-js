@@ -50407,7 +50407,7 @@
                     7837.6365241016
                 ]
             ],
-            "settings": {}
+            "settings": { "labels": ["Custom Ema Label"], "colors": ["#fcba03"] }
         },
         {
             "name": "EMA, 43",
